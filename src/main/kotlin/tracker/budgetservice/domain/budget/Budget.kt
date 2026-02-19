@@ -1,4 +1,4 @@
-package tracker.budgetservice.config.securiry.domain.budget
+package tracker.budgetservice.domain.budget
 
 import java.util.UUID
 

@@ -1,6 +1,5 @@
-package tracker.budgetservice.config.securiry.domain.budget_period
+package tracker.budgetservice.domain.budget_period
 
-import com.rabbitmq.client.AMQP
 import java.time.LocalDate
 import java.util.UUID
 
